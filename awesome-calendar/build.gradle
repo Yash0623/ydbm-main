@@ -1,0 +1,59 @@
+apply plugin: 'com.android.library'
+
+ext {
+    bintrayRepo = 'EnticeArc'
+    bintrayName = 'awesome-calendar'   // Has to be same as your library module name
+
+    publishedGroupId = 'com.archit.calendar'
+    libraryName = 'Awesome-Calendar'
+    artifact = 'awesome-calendar'     // Has to be same as your library module name
+
+    libraryDescription = 'Android library to select range of dates.'
+
+    // Your github repo link
+    siteUrl = 'https://github.com/ArchitShah248/CalendarDateRangePicker'
+    gitUrl = 'https://github.com/ArchitShah248/CalendarDateRangePicker.git'
+    githubRepository= 'ArchitShah248/CalendarDateRangePicker'
+
+    libraryVersion = '1.1.4'
+
+    developerId = 'architshah248'
+    developerName = 'Archit Shah'
+    developerEmail = 'architshah248@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
+
+android {
+    compileSdkVersion 28
+
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.1.4"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+
+}
+
+apply from: 'install.gradle'
+apply from: 'bintray.gradle'

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="check_in_out_time">
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+
+
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+
+
+    </string-array>
+    <string-array name="check_in_out_time_new">
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+    </string-array>
+
+
+    <string-array name="expt_time">
+        <item>12:00 AM - 01:00 AM</item>
+        <item>01:00 AM - 02:00 AM</item>
+        <item>02:00 AM - 03:00 AM</item>
+        <item>03:00 AM - 04:00 AM</item>
+        <item>04:00 AM - 05:00 AM</item>
+        <item>05:00 AM - 06:00 AM</item>
+        <item>06:00 AM - 07:00 AM</item>
+        <item>07:00 AM - 08:00 AM</item>
+        <item>08:00 AM - 09:00 AM</item>
+        <item>09:00 AM - 10:00 AM</item>
+        <item>10:00 AM - 11:00 AM</item>
+        <item>11:00 AM - 12:00 AM</item>
+        <item>12:00 PM - 01:00 PM</item>
+        <item>01:00 PM - 02:00 PM</item>
+        <item>02:00 PM - 03:00 PM</item>
+        <item>03:00 PM - 04:00 PM</item>
+        <item>04:00 PM - 05:00 PM</item>
+        <item>05:00 PM - 06:00 PM</item>
+        <item>06:00 PM - 07:00 PM</item>
+        <item>07:00 PM - 08:00 PM</item>
+        <item>08:00 PM - 09:00 PM</item>
+        <item>09:00 PM - 10:00 PM</item>
+        <item>10:00 PM - 11:00 PM</item>
+        <item>11:00 PM - 12:00 PM</item>
+
+    </string-array>
+
+    <string-array name="time_format">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+
+
+    <string-array name="states">
+        <item>Select state</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="6dp"
+    android:background="@drawable/btn_with_outline"
+    android:gravity="center"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:id="@+id/lineardata"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:gravity="start"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/onlineData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="start"
+
+            android:padding="@dimen/d_10dp"
+            android:src="@drawable/ic_action_wifi">
+
+        </ImageView>
+        <View
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="10dp"></View>
+
+        <ImageView
+            android:id="@+id/offlineData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+
+
+            android:padding="@dimen/d_10dp"
+            android:src="@drawable/ic_action_wifi_off">
+
+        </ImageView>
+    </LinearLayout>
+
+
+    <TableLayout
+        android:id="@+id/tableBookingDetails"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:layout_below="@id/heading"
+
+        android:layout_marginTop="9dp"></TableLayout>
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lineardata"
+        android:layout_centerHorizontal="true"
+
+        android:text="04 march checkin details"
+        android:textColor="@color/green"
+        android:textStyle="bold"></TextView>
+</RelativeLayout>

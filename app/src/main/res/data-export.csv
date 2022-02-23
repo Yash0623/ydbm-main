@@ -1,0 +1,17 @@
+# ----------------------------------------
+# Events
+# ----------------------------------------
+Event Name,Count,Users,Mark as conversion
+app_clear_data,7,7,false
+app_exception,96,29,false
+app_open,4,1,true
+app_remove,81,81,false
+app_update,0,0,true
+first_open,118,118,true
+notification_dismiss,0,0,false
+notification_foreground,0,0,false
+notification_open,0,0,false
+notification_receive,0,0,true
+os_update,2,2,false
+screen_view,22117,220,true
+session_start,2534,218,false

@@ -1,0 +1,59 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ydbm.ui.homescreen.MainActivity">
+
+    <!--<item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_search"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Call" />
+    <item
+        android:id="@+id/group"
+        android:orderInCategory="100"
+        android:title="Create Group"
+        app:showAsAction="never" />-->
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="100"
+        android:title="Send Message"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/addadmin"
+        android:orderInCategory="100"
+        android:title="Add Admin"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/copymsg"
+        android:orderInCategory="100"
+        android:title="Copy message to"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/usersList"
+        android:orderInCategory="100"
+        android:title="Registerd Users"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/profilescreen"
+        android:orderInCategory="100"
+        android:title="Profile"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/bookinList"
+        android:orderInCategory="100"
+        android:title="Booking List"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/inquiryList"
+        android:orderInCategory="100"
+        android:title="Inquiry List"
+        app:showAsAction="never" />
+
+  <!--  <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="@string/logout"
+        app:showAsAction="never" />-->
+
+</menu>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-storage:19.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1dc939b1bd4d3ee6af57bb11eb76bdb7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1dc939b1bd4d3ee6af57bb11eb76bdb7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb27d4807acf851a44243468424d9ebd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb27d4807acf851a44243468424d9ebd/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb27d4807acf851a44243468424d9ebd/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3844f427d68eaf677e578bd5c00c7217/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3844f427d68eaf677e578bd5c00c7217/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3844f427d68eaf677e578bd5c00c7217/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91c5d7c9b803ac2ae81ea23a8c0de745/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91c5d7c9b803ac2ae81ea23a8c0de745/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91c5d7c9b803ac2ae81ea23a8c0de745/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-storage/19.1.0/553c23659c39b1e6375f76b308e8dcdd3522e570/firebase-storage-19.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

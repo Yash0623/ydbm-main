@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wdullaer:materialdatetimepicker:4.2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5390de373b6f7cb1407b9c2b5739b32/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5390de373b6f7cb1407b9c2b5739b32/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8287f3262108aae5cd09bd6c52436b7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8287f3262108aae5cd09bd6c52436b7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8287f3262108aae5cd09bd6c52436b7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ba6a2acf99c2b0a86c4439f3178b2ab/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ba6a2acf99c2b0a86c4439f3178b2ab/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ba6a2acf99c2b0a86c4439f3178b2ab/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0334434df95d8319524756da66f73c5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0334434df95d8319524756da66f73c5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0334434df95d8319524756da66f73c5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wdullaer/materialdatetimepicker/4.2.1/aa9467122c6ecb22aa1e4324ee4cf04561b1088d/materialdatetimepicker-4.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

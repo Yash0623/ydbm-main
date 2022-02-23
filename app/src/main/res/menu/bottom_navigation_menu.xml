@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_Allbookings"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_content_copy"
+        android:title="All"
+      />
+    <item
+        android:id="@+id/action_TodaysBookings"
+        android:orderInCategory="101"
+        android:icon="@drawable/ic_action_content_copy"
+        android:title="Today"
+        />
+    <item
+        android:id="@+id/action_tomorrowBookings"
+        android:orderInCategory="102"
+        android:icon="@drawable/ic_action_content_copy"
+        android:title="Tomorrow"
+        />
+    <item
+        android:id="@+id/action_activebookings"
+        android:orderInCategory="103"
+        android:icon="@drawable/ic_action_content_copy"
+        android:title="Active"
+      />
+</menu>

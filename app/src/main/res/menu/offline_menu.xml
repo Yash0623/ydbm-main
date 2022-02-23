@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/action_pdf"
+        android:icon="@drawable/ic_action_picture_as_pdf"
+        android:title="pdf"
+        app:showAsAction="always|collapseActionView" >
+        <menu>
+            <item
+                android:id="@+id/action_pdf_submenu"
+                android:title="PDF" />
+            <item
+                android:id="@+id/action_excel_submenu"
+                android:title="Excel" />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_filter"
+        android:icon="@drawable/ic_action_booking1_icon"
+        android:title="Filter"
+
+        app:showAsAction="always|collapseActionView">
+        <menu>
+            <item
+                android:id="@+id/action_dates"
+                android:icon="@drawable/ic_action_date_range"
+                android:title="Checkin" />
+
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/profilescreen"
+        android:orderInCategory="100"
+        android:title="Profile"
+        app:showAsAction="never" />
+
+</menu>

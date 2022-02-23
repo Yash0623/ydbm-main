@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.shuhart.stepview:stepview:1.2.8@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ae103db0ada824cc079925f7b14ddb2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5eb0e371a39c6f87df438baaae793c68/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a1cf6bd13e69d85b7611eed91f8b4a8/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/930ff4a1d95110f30ce94c63e9084638/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ae103db0ada824cc079925f7b14ddb2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ae103db0ada824cc079925f7b14ddb2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5eb0e371a39c6f87df438baaae793c68/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5eb0e371a39c6f87df438baaae793c68/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5eb0e371a39c6f87df438baaae793c68/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a1cf6bd13e69d85b7611eed91f8b4a8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a1cf6bd13e69d85b7611eed91f8b4a8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a1cf6bd13e69d85b7611eed91f8b4a8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/930ff4a1d95110f30ce94c63e9084638/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/930ff4a1d95110f30ce94c63e9084638/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/930ff4a1d95110f30ce94c63e9084638/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shuhart.stepview/stepview/1.2.8/a57752c8a1595129938074fd9e34c8973134273b/stepview-1.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

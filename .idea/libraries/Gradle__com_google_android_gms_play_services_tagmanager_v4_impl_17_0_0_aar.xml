@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tagmanager-v4-impl:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7578eb594e213f1f8bac8a63186c03fb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7578eb594e213f1f8bac8a63186c03fb/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53088ce0076d1b55c5321353337923d0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53088ce0076d1b55c5321353337923d0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53088ce0076d1b55c5321353337923d0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9818ab18940baf10948a1928f03a45ab/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9818ab18940baf10948a1928f03a45ab/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9818ab18940baf10948a1928f03a45ab/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c6f9d6d10a0432d0e6d9bf813092d457/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c6f9d6d10a0432d0e6d9bf813092d457/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c6f9d6d10a0432d0e6d9bf813092d457/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-tagmanager-v4-impl/17.0.0/d7803a62cd17ee98fb4f0cf3bdf1df8ad8d6f9c1/play-services-tagmanager-v4-impl-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

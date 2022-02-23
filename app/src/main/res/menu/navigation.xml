@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_inquiry"
+        android:orderInCategory="111"
+        android:icon="@drawable/ic_action_icon_enq"
+        android:title="Inquiry"
+        />
+    <item
+        android:id="@+id/action_booking"
+        android:orderInCategory="112"
+        android:icon="@drawable/ic_action_booking1_icon"
+        android:title="Bookings"
+        />
+    <item
+        android:id="@+id/action_inventory"
+        android:orderInCategory="113"
+        android:icon="@drawable/ic_action_icon_enq"
+        android:title="Inventory"
+        />
+
+</menu>

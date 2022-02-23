@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@android:color/transparent">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/dm_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_action_accomodation" />
+
+    <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="8dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:layout_marginBottom="2dp"
+                android:background="#1261A0" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="7dp">
+
+                <com.ydbm.utils.LabelLayout
+                    android:id="@+id/label_layout_pending"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="visible"
+                    app:labelBackground="#008000"
+                    app:labelDistance="20dp"
+                    app:labelGravity="top_right"
+                    app:labelHeight="20dp"
+                    app:labelText=""
+                    app:labelTextColor="@android:color/white"
+                    app:labelTextDirection="left_to_right"
+                    app:labelTextSize="12sp">
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:background="@android:color/transparent" />
+
+                </com.ydbm.utils.LabelLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearBookingid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:id="@+id/textViewBookingIdTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Booking Id"
+                        android:textColor="#000000"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : "
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/textViewBookingIdValue"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ABCDE13245"
+                        android:textColor="#000000"></TextView>
+
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/view1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dp"
+                    android:layout_below="@id/linearBookingid"
+                    android:layout_alignLeft="@id/linearBookingid"
+                    android:layout_alignRight="@id/linearBookingid"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="@dimen/d_10dp"
+                    android:background="@color/colorPrimary"></View>
+
+
+                <LinearLayout
+                    android:id="@+id/linearNm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/view1"
+                    android:layout_marginTop="7dp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:id="@+id/textViewYatriNameTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/ic_action_account_box"
+                        android:drawablePadding="4dp"
+                        android:text="Yatri Name"
+                        android:textColor="#000000"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : "
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/textViewYatriNamevalue"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:text="Maitri Test"
+                        android:textColor="#000000"
+                        android:textSize="14sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearCheckInOut"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/linearNm"
+                    android:layout_marginTop="4dp"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:id="@+id/textViewCheckInTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/ic_action_date_range"
+                        android:drawablePadding="4dp"
+                        android:gravity="center"
+                        android:text="Check in"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : " />
+
+                    <TextView
+                        android:id="@+id/textViewCheckInvalue"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="24/09/2019"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearOut"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/linearCheckInOut"
+                    android:layout_marginTop="4dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewCheckoutTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/ic_action_date_range"
+                        android:drawablePadding="4dp"
+                        android:gravity="center"
+                        android:text="Check out"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : " />
+
+                    <TextView
+                        android:id="@+id/textViewCheckoutvalue"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="4dp"
+                        android:text="24/09/2019"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearRmtyp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/linearOut"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginTop="4dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Room type : " />
+
+                    <TextView
+                        android:id="@+id/textViewRmType"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Basic" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearExtraMattress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/linearRmtyp"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginTop="4dp">
+
+                    <TextView
+                        android:id="@+id/lblMattress"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Extra Mattress : " />
+
+                    <TextView
+                        android:id="@+id/txtExtraMattressQty"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/imageBtns"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/linearExtraMattress"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="right"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/btn_bookingDelete"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/btn_bookingDetails"
+                        android:layout_marginLeft="@dimen/d_20dp"
+                        android:padding="@dimen/d_5dp"
+                        android:background="@android:color/transparent"
+                        android:src="@drawable/ic_action_delete_forever"
+                        android:tint="@color/colorPrimaryDark"
+                        android:visibility="visible" />
+
+                    <ImageButton
+                        android:id="@+id/btn_bookingShare"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/btn_bookingDetails"
+                        android:layout_marginLeft="@dimen/d_20dp"
+                        android:padding="@dimen/d_5dp"
+                        android:background="@android:color/transparent"
+                        android:src="@drawable/ic_action_share"
+                        android:tint="@color/colorPrimaryDark"
+                        android:visibility="visible" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/btn_bookingDetails"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_gravity="center"
+
+                    android:gravity="center"
+                    android:text="View"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimaryDark"
+
+                    android:visibility="visible" />
+
+
+            </RelativeLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <Button
+
+                    android:layout_width="match_parent"
+                    android:layout_height="3dp"
+
+
+                    android:background="#1261A0" />
+            </FrameLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

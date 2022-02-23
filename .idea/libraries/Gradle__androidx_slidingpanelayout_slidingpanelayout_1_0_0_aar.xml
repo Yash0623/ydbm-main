@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa099cec0da7346986464e1b27e33a03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa099cec0da7346986464e1b27e33a03/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fee6a877dba9e143aa27f4aa3df5b7eb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fee6a877dba9e143aa27f4aa3df5b7eb/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fee6a877dba9e143aa27f4aa3df5b7eb/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/663ba6f2ffae73375172774ee8b7daf7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/663ba6f2ffae73375172774ee8b7daf7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/663ba6f2ffae73375172774ee8b7daf7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/941483ff7b876a76bdfd3d75318714ce/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/941483ff7b876a76bdfd3d75318714ce/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/941483ff7b876a76bdfd3d75318714ce/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.0.0/f3f2e4fded24d5969a86e1974ad7e96975d970a0/slidingpanelayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

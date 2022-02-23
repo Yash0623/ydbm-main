@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amulyakhare:com.amulyakhare.textdrawable:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7c8e2078931558dfd4b47feace75a81/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7c8e2078931558dfd4b47feace75a81/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fd67e090c11f5a8e5644026b7dbac707/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fd67e090c11f5a8e5644026b7dbac707/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fd67e090c11f5a8e5644026b7dbac707/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cb468b4e376b990f916affc612ea9f0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cb468b4e376b990f916affc612ea9f0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cb468b4e376b990f916affc612ea9f0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a3f8bee6999cb74a4521e9d49c82a1a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a3f8bee6999cb74a4521e9d49c82a1a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a3f8bee6999cb74a4521e9d49c82a1a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/464f77c149aad9f5dbb3aaf846cd52d57b61df4b/com.amulyakhare.textdrawable-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
