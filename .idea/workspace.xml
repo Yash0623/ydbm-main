@@ -180,7 +180,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d57dabb-8517-4fb1-a496-e47fb3cf6f74" name="Default Changelist" comment="" />
+    <list default="true" id="4d57dabb-8517-4fb1-a496-e47fb3cf6f74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -240,7 +243,6 @@
     <option name="EXPORT_PRIVATE_KEY" value="false" />
     <option name="KEY_STORE_PATH" value="C:\ydb\ydbm-main\yd_manager1.jks" />
     <option name="KEY_ALIAS" value="ydmanager1" />
-    <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -254,6 +256,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1YImS6fCTAPjCDvCidbEBAzmnW7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -261,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
     <property name="ApkExportedModule" value="ydbm-main.app" />
-    <property name="BundleExportedModule" value="yatradham_booking_manager.app" />
+    <property name="BundleExportedModule" value="ydbm-main.app" />
     <property name="DEBUGGABLE_DEVICE" value="xiaomi-redmi_6a-4a7a89087d32" />
     <property name="DEBUGGABLE_PROCESS" value="com.ydbm" />
     <property name="DEBUGGER_ID" value="Auto" />
